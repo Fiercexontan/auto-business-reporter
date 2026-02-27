@@ -1,0 +1,16 @@
+# NEVER push these to GitHub — they contain private keys and passwords
+.env
+credentials.json
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Virtual environment
+venv/
+env/
